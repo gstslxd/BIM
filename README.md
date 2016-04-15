@@ -1,2 +1,0 @@
-# BIM
-bimserver and bimviews
